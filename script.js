@@ -5,7 +5,7 @@ console.log(a);
 //object
 var b;
 b = {
-    name: "Fuad",
+    name: "Tanisha",
     age: 23,
     adult: true
 };
@@ -22,7 +22,7 @@ function myFunc(a, b, c) {
     console.log(a, b);
 }
 myFunc("A", "B");
-//function signatures
+// function signatures
 // let userInfo: (
 //    name: string,
 //    age: number,

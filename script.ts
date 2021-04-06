@@ -13,7 +13,7 @@ let b: {
 };
 
 b = {
-   name: "Fuad",
+   name: "Tanisha",
    age: 23,
    adult: true,
 };
@@ -37,7 +37,7 @@ function myFunc(a: string, b: string, c: string = "C") {
 
 myFunc("A", "B");
 
-//function signatures
+// function signatures
 // let userInfo: (
 //    name: string,
 //    age: number,
